@@ -1,0 +1,19 @@
+
+9. Printing statistics.
+
+=== csa ===
+
+   Number of wires:                131
+   Number of wire bits:            140
+   Number of public wires:         131
+   Number of public wire bits:     140
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 37
+     sky130_fd_sc_hd__and2_0        15
+     sky130_fd_sc_hd__lpflow_inputiso1p_1      7
+     sky130_fd_sc_hd__xor2_1        15
+
+   Chip area for module '\csa': 269.008000
+
