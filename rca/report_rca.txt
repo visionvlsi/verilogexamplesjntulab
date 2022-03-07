@@ -1,0 +1,19 @@
+
+9. Printing statistics.
+
+=== rca ===
+
+   Number of wires:                 71
+   Number of wire bits:             80
+   Number of public wires:          71
+   Number of public wire bits:      80
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 20
+     sky130_fd_sc_hd__and2_0         8
+     sky130_fd_sc_hd__lpflow_inputiso1p_1      4
+     sky130_fd_sc_hd__xor2_1         8
+
+   Chip area for module '\rca': 145.139200
+
