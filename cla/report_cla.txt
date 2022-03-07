@@ -1,0 +1,20 @@
+
+7. Printing statistics.
+
+=== cla ===
+
+   Number of wires:                 12
+   Number of wire bits:             41
+   Number of public wires:          12
+   Number of public wire bits:      41
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 16
+     sky130_fd_sc_hd__a21o_1         4
+     sky130_fd_sc_hd__and2_0         4
+     sky130_fd_sc_hd__xor2_1         4
+     sky130_fd_sc_hd__xor3_1         4
+
+   Chip area for module '\cla': 185.177600
+
